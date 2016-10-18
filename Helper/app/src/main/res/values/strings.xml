@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">随手帮</string>
+    <string name="send">发布</string>
+    <string name="recelive">接单</string>
+    <string name="share">分享</string>
+    <string name="home">我的</string>
+</resources>
